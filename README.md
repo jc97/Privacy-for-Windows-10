@@ -14,6 +14,6 @@ This repository collects some scripts and registry files to improve the privacy 
 
 This file disables the Web Search of Cortana and device history. Tested using Windows 10 EDU 1903.
 
-### removeApps.ps
+### removeApps.ps1
 
 A PowerShell script to remove some often preinstalled apps that are potentially unwanted.
